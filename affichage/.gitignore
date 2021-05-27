@@ -1,0 +1,13 @@
+# Temporary files
+*~
+\#*
+
+# Compiled files
+*.o
+*.so
+*.a
+
+
+# IntelliJ files
+.idea
+out
